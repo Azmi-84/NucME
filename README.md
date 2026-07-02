@@ -1,6 +1,6 @@
 # NucME
 
-NucME is a computational mechanics project where I have used Python to implement different numerical methods that were taught in different course in a different semester in my mechanical engineering program.
+NucME is a computational mechanics project where I have used Python to implement different numerical methods that were taught in different courses in a different semester in my mechanical engineering program.
 
 - Math 4511: Numerical Analysis
 - ME 4637: Computational Mechanics
@@ -26,7 +26,7 @@ NucME is a computational mechanics project where I have used Python to implement
 
 - Gauss Elimination
   - Naive Gauss Elimination
-  - Gauss Jordan Elimination
+  - Gauss-Jordan Elimination
 
 - LU Decomposition and Matrix Inversion
   - LU Decomposition
@@ -34,7 +34,7 @@ NucME is a computational mechanics project where I have used Python to implement
 
 - Optimization
   - One-Dimensional Unconstrained Optimization
-    - Newton's Method
+    - Newton’s Method
     - Golden Section Search
     - Parabolic Interpolation
 
@@ -42,25 +42,25 @@ NucME is a computational mechanics project where I have used Python to implement
     - Gradient Method
 
 - Interpolation
-  - Splie Interpolation
-  - Lagrance Interpolating Polynomials
-  - Newton's Divide-Difference Interpolating Polynomials
+  - Spline Interpolation
+  - Lagrange Interpolating Polynomials
+  - Newton’s Divide-Difference Interpolating Polynomials
 
-- Newton-Cotes Integration Formulaes
-  - Simpson's Rule
+- Newton-Cotes Integration Formulas
+  - Simpson’s Rule
   - Trapezoidal Rule
   - Integration with Unequal Segments
 
 - Runge-Kutta Methods
-  - Euler's Method
+  - Euler’s Method
     - Explicit Euler
     - Implicit Euler
-  
+
   - Runge-Kutta Method
 
 ## Effective Use of AI
 
-Yeah, the artificial intelligence (AI) has benn used in this project also. But, as my previous project, here, I also used them cautiously. As all of the methods were taught in our lab so I had a clearn understanding on what to do next. Still if I was stuck one point for quite a lot time, then, I asked different LLMs to help me answering my questions.
+Yeah, the artificial intelligence (AI) has also been used in this project. But, as in my previous project, here, I also used them cautiously. As all of the methods were taught in our lab, I had a clear understanding of what to do next. Still, if I was stuck at one point for quite a long time, then I asked different LLMs to help me answer my questions.
 
 ## Project Structure
 
